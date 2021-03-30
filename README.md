@@ -27,3 +27,4 @@
 [NOTE02 📗]:https://github.com/chea-young/Linux_study/tree/main/Part1_02%20%EB%A6%AC%EB%88%85%EC%8A%A4%20%EC%84%A4%EC%B9%98
 
 ### Part2  
+ - 
