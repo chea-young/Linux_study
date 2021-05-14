@@ -22,7 +22,6 @@
   - Process
   - Target mode(run level)
 
-
 [NOTE01 📗]: https://github.com/chea-young/Linux_study/blob/main/Part1_01%20%EB%A6%AC%EB%88%85%EC%8A%A4%20%EA%B0%9C%EC%9A%94/README.md
 [NOTE02 📗]:https://github.com/chea-young/Linux_study/tree/main/Part1_02%20%EB%A6%AC%EB%88%85%EC%8A%A4%20%EC%84%A4%EC%B9%98
 
