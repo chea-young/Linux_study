@@ -40,5 +40,5 @@
       - sudo nano /etc/apache2/apache2.conf
       - 수정: <Directory /var/www/html> -> <Directory [원하는 위치]>
       - sudo nano /etc/apache2/sites-enabled/000-default.conf
-      - 수정: <Directory /var/www/html> -> <Directory [원하는 위치]>
+      - 수정: DocumentRoot /var/www/html -> DocumentRoot [원하는 위치]
       - sudo /etc/init.d/apache2 restart
